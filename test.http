@@ -1,0 +1,9 @@
+POST http://localhost:4040/api/
+Content-Type: application/json
+
+{
+    "id": "coconut-in-water",
+    "productName":"Beef",
+    "productQuantity": "200kg",
+    "productPrice": "200/kg"
+}
