@@ -1,0 +1,18 @@
+{
+  "name": "farm-connect-server",
+  "version": "1.0.0",
+  "description": "It provides the frontend with basic functionalities and information",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Emmanuel Omoiya",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5",
+    "nodemon": "^2.0.16"
+  }
+}
